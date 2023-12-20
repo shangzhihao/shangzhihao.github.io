@@ -1,7 +1,7 @@
 baseURL = 'https://shangzhihao.github.io/'
 languageCode = 'en-us'
 title = 'Shang Zhihao'
-theme = "PaperMod"
+theme = "themes/PaperMod"
 name = "Shang Zhihao"
 
 [menus]
