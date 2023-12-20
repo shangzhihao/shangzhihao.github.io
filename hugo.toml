@@ -1,0 +1,27 @@
+baseURL = 'https://shangzhihao.github.io/'
+languageCode = 'en-us'
+title = 'Shang Zhihao'
+theme = "PaperMod"
+name = "Shang Zhihao"
+
+[menus]
+[[menus.main]]
+    name = 'Home'
+    url = '/'
+    weight = 10
+[[menus.main]]
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
+[[menus.main]]
+    name = 'Tags'
+    url = '/tags/'
+    weight = 30
+[[menus.main]]
+    name = 'Publications'
+    url = '/pubs/'
+    weight = 40
+[[menus.main]]
+    name = 'About Me'
+    url = '/about/'
+    weight = 50
