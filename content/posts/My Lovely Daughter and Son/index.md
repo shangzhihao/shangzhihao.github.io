@@ -6,7 +6,7 @@ tags = ['family']
 
 My family went to a photo studio taking photos today. We planned to do that on the 100th day of my son, but I always got things at work that made me could not go to my hometown. Finally, we made it in the vacation of national day.
 
-He has 4 teeth now.
+He has 4 teeth now. It is very sad you can only see two of them. I am the lucky man to them all.
 
 ![my son](images/son1.jpg)
 
