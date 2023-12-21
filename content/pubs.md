@@ -4,7 +4,7 @@ date = 2023-12-20T15:14:48+08:00
 draft = false
 +++
 
-This page is not well maintained. The full list can be found [here](https://scholar.google.ch/citations?user=bPtby7UAAAAJ&hl=en&oi=ao).
+This page shows some selected papers, and it may be not well maintained. The full list can be found [here](https://scholar.google.ch/citations?user=bPtby7UAAAAJ&hl=en&oi=ao).
 
 
 - Decomposition-based wind speed forecasting model using causal convolutional network and attention mechanism in Expert Systems with Applications

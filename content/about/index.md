@@ -4,7 +4,14 @@ date = 2023-12-20T13:55:10+08:00
 draft = false 
 +++
 
-My name is Shang Zhihao. I got my PhD from Free University of Berlin in Dec. 2019. I am working at Zhengzhou University of Light Industry now. I research research interests include time series forecastng, deep learning.
+{{< rawhtml >}}
+<img loading="lazy" src="me.jpg"  style="height: 200px;float:left;margin:0px 20px 0px 0px;" />
+
+<p>
+My name is Shang Zhihao. I got my PhD from Free University of Berlin in Dec. 2019. I am working at Zhengzhou University of Light Industry now. My research interests include time series forecastng, deep learning.
+</p>
+<br style="clear:both;" />
+{{< /rawhtml >}}
 
 ### Education:
 
