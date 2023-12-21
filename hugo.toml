@@ -4,6 +4,9 @@ title = 'Shang Zhihao'
 theme = "PaperMod"
 name = "Shang Zhihao"
 
+[params.meta]
+    favicon = false
+
 [menus]
 [[menus.main]]
     name = 'Home'

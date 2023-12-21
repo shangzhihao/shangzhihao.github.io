@@ -5,19 +5,21 @@ draft = false
 +++
 
 {{< rawhtml >}}
-<img loading="lazy" src="me.jpg"  style="height: 200px;float:left;margin:0px 20px 0px 0px;" />
+<img src="me.jpg"  style="height: 200px;float:left;margin:0px 20px 0px 0px;" />
+{{< /rawhtml >}}
 
-<p>
-My name is Shang Zhihao. I got my PhD from Free University of Berlin in Dec. 2019. I am working at Zhengzhou University of Light Industry now. My research interests include time series forecastng, deep learning.
-</p>
+My name is Shang Zhihao. I got my PhD under supervision of [Prof. Dr. Katinka Wolter](https://www.mi.fu-berlin.de/inf/groups/ag-dds/staff/wolter.html) from Free University of Berlin in Dec. 2019. I am working at Zhengzhou University of Light Industry now. My research interests include time series forecastng, deep learning. 
+
+
+{{< rawhtml >}}
 <br style="clear:both;" />
 {{< /rawhtml >}}
 
 ### Education:
 
-- Freie Universtät Berlin, Germany Ph.D. in Computer Science
-- Lanzhou University, China MSc. in Computer Software and Theory
-- Henan University of Chinese Medicine, China B.E. in Computer Science and Technology
+- Freie Universtät Berlin, Ph.D. in Computer Science, 2015.10 to 2019.12
+- Lanzhou University, Master in Computer Software and Theory, 2011.09 to 2014.07
+- Henan University of Chinese Medicine, Bachelor in Computer Science and Technology, 2006.09 to 2010.07
 
 ### Work Experience:
 

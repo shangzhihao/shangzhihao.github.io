@@ -8,7 +8,7 @@ I reimplemented my site with [Hugo](https://gohugo.io/) today. The theme is [Pap
 
 My iPhone was upgraded to iOS 17 a few day ago. iOS 17 comes with Journal app. I like the idea of Journal and I used it for some days. Actually, it is not a good app. At least, I do not like it. It has very poor functionality.
 
-I decided to pick up my github pages and use it to show my CV, also to write some posts. Maybe I will migrate my posts on others site here. I am not sure if I have time to do that.
+I decided to pick up my github pages and use it to show my CV, also to write some posts. Maybe I will migrate my posts on other site here. I am not sure if I have time to do that.
 
 
 Finally, [Hugo](https://gohugo.io/) is a great software.
