@@ -1,8 +1,14 @@
 +++
 title = 'Cities I have ever been'
-date = 2023-12-27T16:32:17+08:00
+date = 2023-12-26T08:32:17+08:00
+draft = false
+tags = ['travelling']
 +++
 
-![world](images/world.jpg)
+### In China.
 
-![china](images/china.jpg)
+![China](images/china.jpg)
+
+### In Europe.
+
+![Europe](images/europe.jpg)

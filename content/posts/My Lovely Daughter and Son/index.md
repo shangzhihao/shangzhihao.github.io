@@ -16,3 +16,6 @@ He has 4 teeth now. It is very sad you can only see two of them. I am the lucky 
 
 This is my daughter's favorite.
 ![my daughter](images/dau2.jpg)
+
+All of my family. We are not ready yet. XD.
+![my son](images/all.jpg)
