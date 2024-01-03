@@ -27,6 +27,11 @@ My name is Shang Zhihao (尚志浩). I got my PhD under supervision of [Prof. Dr
 - 2023.09 to now, Man-machine Coordination for Failure Prediction of Carrier-based
 Aircraft Based on Time Series Forecasting from Natural Science Foundation of Henan Province
 
+### Teaching:
+
+- English for Computer Science
+- Operating Systems
+
 ### Publications:
 
 Here are some selected papers. This page may be not well maintained. The full list can be found [here](https://scholar.google.ch/citations?user=bPtby7UAAAAJ&hl=en&oi=ao).
