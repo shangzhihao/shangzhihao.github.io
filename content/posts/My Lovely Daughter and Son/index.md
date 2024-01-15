@@ -19,3 +19,6 @@ This is my daughter's favorite.
 
 All of my family. We are not ready yet. XD.
 ![my son](images/all.jpg)
+
+They are playing dolls.
+![my son](images/dolls.jpg)
