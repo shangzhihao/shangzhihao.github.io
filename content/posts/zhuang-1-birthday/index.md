@@ -7,9 +7,9 @@ draft = false
 My boy is one year old!!!
 
 
-![1st birthday](images/01.jpg)
-![1st birthday](images/02.jpg)
-![1st birthday](images/03.jpg)
+![1st birthday](images/1.jpg)
+![1st birthday](images/2.jpg)
+![1st birthday](images/3.jpg)
 
 
 {{< youtube id="87MGfaxzScY" title="My boy's 1st Birthday" >}}
