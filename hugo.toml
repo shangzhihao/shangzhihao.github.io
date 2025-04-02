@@ -24,3 +24,6 @@ name = "Shang Zhihao"
     name = 'About Me'
     url = '/about/'
     weight = 40
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
