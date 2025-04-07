@@ -23,14 +23,15 @@ My name is Shang Zhihao (尚志浩). I got my PhD under supervision of [Prof. Dr
 - Henan University of Chinese Medicine, Bachelor in Computer Science and Technology, 2006.09 to 2010.07
 
 ### Projects:
-- 2021.09 to 2023.06, Time Series Analysis-Based Fault Prediction Technology for Carrier-Based Aircraft Engines from China Postdoctoral Science Foundation
-- 2023.09 to now, Man-machine Coordination for Failure Prediction of Carrier-based
+- 2021.09 to 2023.06, Time Series Analysis-Based Fault Prediction Technology for Aircraft Engines from China Postdoctoral Science Foundation
+- 2023.01 to 2025.12, Man-machine Coordination for Failure Prediction of
 Aircraft Based on Time Series Forecasting from Natural Science Foundation of Henan Province
 
 ### Teaching:
 
 - English for Computer Science
-- Operating Systems
+- Python
+- Machine Learning
 
 ### Publications:
 
