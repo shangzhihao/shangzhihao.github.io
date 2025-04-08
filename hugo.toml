@@ -4,6 +4,7 @@ title = 'Shang Zhihao'
 theme = "PaperMod"
 name = "Shang Zhihao"
 
+
 [params.meta]
     favicon = false
 
@@ -27,3 +28,12 @@ name = "Shang Zhihao"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/shangzhihao"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/shangzhihao"
