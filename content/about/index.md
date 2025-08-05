@@ -61,8 +61,5 @@ Here are some selected papers. This page may be not well maintained. The full li
 
 ### Contact Information:
 zhihao.shang(at)gmail.com\
-School of Computer Science and Technology,\
-Zhengzhou University of Light Industry,\
-Science Avenue 136, Zhengzhou,\
-Henan Province, China
-
+Triftstr. 67a\
+13353 Berlin\
