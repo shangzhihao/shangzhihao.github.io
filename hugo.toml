@@ -1,9 +1,11 @@
 baseURL = 'https://shangzhihao.github.io/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Shang Zhihao'
 theme = "PaperMod"
 name = "Shang Zhihao"
 
+[params]
+    author = "Shang Zhihao"
 
 [params.meta]
     favicon = false
