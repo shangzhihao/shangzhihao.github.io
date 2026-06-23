@@ -1,5 +1,5 @@
 +++
-title = 'Microsoft Defender Wanted My Codex Config'
+title = 'threat from codex config'
 date = 2026-06-23T15:00:00+02:00
 draft = false
 +++
