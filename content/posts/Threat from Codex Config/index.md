@@ -1,5 +1,5 @@
 +++
-title = 'threat from codex config'
+title = 'Threat from Codex Config'
 date = 2026-06-23T15:00:00+02:00
 draft = false
 +++
