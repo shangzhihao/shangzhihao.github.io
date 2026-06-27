@@ -8,30 +8,28 @@ draft = false
 <img src="me.jpg"  style="height: 200px;float:left;margin:0px 20px 0px 0px;" />
 {{< /rawhtml >}}
 
-My name is Shang Zhihao (尚志浩). I got my PhD under supervision of [Prof. Dr. Katinka Wolter](https://www.mi.fu-berlin.de/inf/groups/ag-dds/staff/wolter.html) from Free University of Berlin in Dec. 2019. I am working at Zhengzhou University of Light Industry now. My research interests include time series forecastng, deep learning. 
-
+My name is Shang Zhihao (尚志浩). I got my PhD under supervision of [Prof. Dr. Katinka Wolter](https://www.mi.fu-berlin.de/inf/groups/ag-dds/staff/wolter.html) from Free University of Berlin in Dec. 2019. I am working at Zhengzhou University of Light Industry now. My research interests include time series forecastng, deep learning.
 
 {{< rawhtml >}}
 <br style="clear:both;" />
 {{< /rawhtml >}}
 
 ### Experience:
+
 - Zhengzhou University of Light Industry, lecturer in School of Computer Science and Technology, 2023.07 to now
 - Zhengzhou Universtiy, post doctor in School of Computer and Artificial Intelligence, 2020.06 to 2023.06
 
 ### Education
+
 - Freie Universtät Berlin, Ph.D. in Computer Science, 2015.10 to 2019.12
 - Lanzhou University, Master in Computer Software and Theory, 2011.09 to 2014.07
 - Henan University of Chinese Medicine, Bachelor in Computer Science and Technology, 2006.09 to 2010.07
 
 ### Funding:
+
 - 2021.09 to 2023.06, Time Series Analysis-Based Fault Prediction Technology for Aircraft Engines from China Postdoctoral Science Foundation
 - 2023.01 to 2025.12, Man-machine Coordination for Failure Prediction of
-Aircraft Based on Time Series Forecasting from Natural Science Foundation of Henan Province
-
-### Project:
-
-- [HyperStarC](https://github.com/shangzhihao/HyperStarC)
+  Aircraft Based on Time Series Forecasting from Natural Science Foundation of Henan Province
 
 ### Teaching:
 
@@ -59,7 +57,4 @@ Here are some selected papers. This page may be not well maintained. The full li
 
 - [linkedin](https://linkedin.com/in/shangzhihao)
 
-### Contact Information:
-zhihao.shang(at)gmail.com\
-Triftstr. 67a\
-13353 Berlin
+- [google scholar](https://scholar.google.ch/citations?user=bPtby7UAAAAJ&hl=en&oi=ao)
